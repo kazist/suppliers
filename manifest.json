@@ -1,0 +1,12 @@
+{
+    "name": "kazist\/suppliers",
+    "title": "Ssuppliers",
+    "icon": "--",
+    "extension": "component",
+    "path": "suppliers\/",
+    "description": "  Suppliers",
+    "version": 1,
+    "is_core": 0,
+    "system_tracking_id": 0,
+    "is_modified": 0
+}

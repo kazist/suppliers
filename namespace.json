@@ -1,0 +1,10 @@
+{
+    "SuppliersCategories": {
+        "namespace": "Suppliers\\Categories",
+        "controller": "CategoriesController"
+    },
+    "SuppliersSuppliers": {
+        "namespace": "Suppliers\\Suppliers",
+        "controller": "SuppliersController"
+    }
+}
