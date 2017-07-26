@@ -1,0 +1,22 @@
+{
+    "title": "Suppliers",
+    "description": "Suppliers",
+    "alias": "suppliers",
+    "icon": "fa fa-money",
+    "home_link": "suppliers\/transactions",
+    "path": "applications/Suppliers",
+    "is_core": "1",
+    "menulist": [{
+            "title": "Suppliers",
+            "alias": "admin_suppliers_suppliers",
+            "url": "admin/suppliers/suppliers",
+            "icon": "fa fa-shopping-bag",
+            "children": []
+        }, {
+            "title": "Categories",
+            "alias": "admin_suppliers_categories",
+            "url": "admin/suppliers/categories",
+            "icon": "fa fa-paper-tasks",
+            "children": []
+        }]
+}
